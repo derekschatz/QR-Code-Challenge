@@ -9,18 +9,16 @@ p{
     line-height: 2;
 }
 .qr-image{
-    height: 250px;
-    width: 250px;
+    width: 100%;
     border-radius: 5%;
 }
 .qr-directions{
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     border-radius: 5%;
-    margin: 100px auto;
+    margin: 10rem auto;
     padding: 10px 10px 20px 10px;
-    width: 250px;
-    height: auto;
+    width: 20rem;
 
 }
 .qr-directions h3{
