@@ -1,0 +1,40 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsla(0, 0%, 44%, 0.662);
+}
+p{
+    line-height: 2;
+}
+.qr-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 5%;
+}
+.qr-directions{
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    margin: 100px auto;
+    padding: 10px 10px 20px 10px;
+    width: 250px;
+    height: auto;
+
+}
+.qr-directions h3{
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%)
+
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
